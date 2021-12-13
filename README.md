@@ -1,1 +1,1 @@
-This is a basic Birthday Greeting android app build using Kotlin Language..
+This app is a basic birthday Greeting app which is built using the Language Kotlin. This app can run in all the latest version of android devices where just by Entering a name u can generate beautiful Birthday greeting card.
